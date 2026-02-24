@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Niveen 👋
 
-<!--
-**niveen-sec/niveen-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Security and Cyber Space Student  
+🔐 Interested in Cryptography, Risk Assessment, and Secure Telecom Systems  
+🛡️ SOC Analyst Trainee  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 Current Focus
+- Hybrid Encryption Systems (AES + RSA)
+- Quantum Key Distribution (QKD) Risk Assessment
+- NIST Cybersecurity Framework
+- Security Operations & Incident Monitoring
+
+---
+
+## 📌 Featured Projects
+- 🔐 Hybrid Encryption System (AES + RSA)
+- 🛰️ QKD Telecom Risk Assessment
+
+---
+
+## 🚀 Career Goal
+To contribute to building secure, resilient, and future-ready communication infrastructures.
+
+---
+
+📫 Reach me via LinkedIn
