@@ -1,28 +1,34 @@
 # Hi, I'm Niveen 👋
 
 🎓 Information Security and Cyber Space Student  
-🔐 Interested in Cryptography, Risk Assessment, and Secure Telecom Systems  
-🛡️ SOC Analyst Trainee  
+🔐 Interested in Cryptography, Risk Assessment, and Secure Communication Systems  
+🛡️ Currently Training as SOC Analyst  
 
 ---
 
-## 🔎 Current Focus
-- Hybrid Encryption Systems (AES + RSA)
+## 🔍 Technical Focus
+
+- Hybrid Encryption (AES + RSA)
 - Quantum Key Distribution (QKD) Risk Assessment
-- NIST Cybersecurity Framework
-- Security Operations & Incident Monitoring
+- NIST Cybersecurity Framework Mapping
+- Threat Modeling & Qualitative Risk Analysis
+- Basic Incident Response & SOC Operations
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
+
 - 🔐 Hybrid Encryption System (AES + RSA)
-- 🛰️ QKD Telecom Risk Assessment
+- 🌐 QKD Telecom Infrastructure Risk Assessment
 
 ---
 
-## 🚀 Career Goal
-To contribute to building secure, resilient, and future-ready communication infrastructures.
+## 📚 Currently Learning
+
+- Security Monitoring & Log Analysis
+- Advanced Threat Detection
+- Practical SOC Workflows
 
 ---
 
-📫 Reach me via LinkedIn
+💡 Passionate about building secure and resilient communication infrastructures.
